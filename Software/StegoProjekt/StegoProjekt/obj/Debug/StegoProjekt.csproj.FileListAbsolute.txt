@@ -8,3 +8,6 @@ D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\o
 D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.csproj.CoreCompileInputs.cache
 D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.exe
 D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.pdb
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.GlavnaForma.resources
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.UpisTeksta.resources
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.IspisTeksta.resources
