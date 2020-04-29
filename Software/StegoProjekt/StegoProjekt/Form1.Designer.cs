@@ -56,6 +56,7 @@
             // 
             // uiInputTekstZaUgradnju
             // 
+            this.uiInputTekstZaUgradnju.Enabled = false;
             this.uiInputTekstZaUgradnju.Location = new System.Drawing.Point(13, 196);
             this.uiInputTekstZaUgradnju.Multiline = true;
             this.uiInputTekstZaUgradnju.Name = "uiInputTekstZaUgradnju";
@@ -73,6 +74,7 @@
             // 
             // uiActionUgradiTekst
             // 
+            this.uiActionUgradiTekst.Enabled = false;
             this.uiActionUgradiTekst.Location = new System.Drawing.Point(13, 332);
             this.uiActionUgradiTekst.Name = "uiActionUgradiTekst";
             this.uiActionUgradiTekst.Size = new System.Drawing.Size(165, 23);

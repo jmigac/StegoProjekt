@@ -1,0 +1,10 @@
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\bin\Debug\StegoProjekt.exe.config
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\bin\Debug\StegoProjekt.exe
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\bin\Debug\StegoProjekt.pdb
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.csprojAssemblyReference.cache
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.Form1.resources
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.Properties.Resources.resources
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.csproj.GenerateResource.cache
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.csproj.CoreCompileInputs.cache
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.exe
+D:\Sigurnost interneta\Projekt\StegoProjekt\Software\StegoProjekt\StegoProjekt\obj\Debug\StegoProjekt.pdb
